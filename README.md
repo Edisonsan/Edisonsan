@@ -19,8 +19,7 @@ Experience
 ---------
 
 **Front End Developer, QuantumIT/CBORD** (2020-present, Remote-US)
-
-I develop in Angular.js and IONIC for different mobile solutions that this company has. We follow agile methodologies for the development of solutions in a committed team of more than 20 people focused on one of these solutions.
+> I develop in Angular.js and IONIC for different mobile solutions that this company has. We follow agile methodologies for the development of solutions in a committed team of more than 20 people focused on one of these solutions.
 
 **Chief Information Technology Officer, Sanper Technologies SRL** (2011–2020, Dominican Republic)
 I did consulting services to different companies, as well as documenting the start of operations in other countries of platforms developed by me. I worked in the acquisition of technological products and their distribution.
