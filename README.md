@@ -4,21 +4,13 @@ Edison Sanchez
 #### IT Professional, 15+ years in Software/Hardware Programming and Technology Solutions Architecture.
 ###### [ [LinkedIn](https://www.linkedin.com/in/sanchezedison/) ] . [ sanchez.edison@gmail.com ]
 
-Education
----------
-**B.E. program in Electronic and Telecommunications Engineering, Universisdad de Cundinamarca, Colombia** (1999-2005)
-
-- Graduated with Honors Tesis for Electronic Engineering. Minored in Electromedical Project. Biometric System Design based on Neural Networks for Diagnosis of Cardiac Arrythm on sinus. Program: Electronic Engineering and Communications. Received Cundinamarca's University, 2005. 
-- Research Projects Improvement Team Chaquen 2003-2005.
-
-**P.B.E.. Software Engineering, Distrital University FPS, Colombia** (2006-2007)
-
-- Specialization for Software Engineering Program.
-
 Experience
 ---------
 
-**Front End Developer, QuantumIT/CBORD** (2020-present, Remote-US)
+**Senior Full Stack Engineer** (2020-Present, Remote)
+> Multiple projects using JS/TS React, Backend Node/Python.
+
+**Front End Developer, QuantumIT/CBORD** (2020-2020, Remote-US)
 > I develop in Angular.js and IONIC for different mobile solutions that this company has. We follow agile methodologies for the development of solutions in a committed team of more than 20 people focused on one of these solutions.
 
 **Chief Information Technology Officer, Sanper Technologies SRL** (2011–2020, Dominican Republic)
@@ -47,17 +39,28 @@ Experience
 
 Skills
 ------
-**FrontEnd Development, BackEnd Development, FullStack, WebServices, Cloud Computing, Test Automation.**
+- **FrontEnd Development, BackEnd Development, FullStack, WebServices, Cloud Computing, Test Automation.**
 
-**Programming:** Javascript, React, React Native, C, C++, Python, Typescript, C#, HTML5/CSS3, .Net, Java, ...
+- **Programming:** Javascript, Typescript, ReactJS, React Native, C, C++, Python, Typescript, C#, HTML5/CSS3, .Net, Java, ...
 
-**Libraries:** Apollo, Redux, ApiContext, GraphQL, Bootstrap, Material UI, Semantic UI, Bulma UI, Storybook, BitDev, ...
+- **Libraries:** Apollo, Redux, ApiContext, GraphQL, Bootstrap, Material UI, Semantic UI, Bulma UI, Storybook, BitDev, ...
 
-**Cloud:** AWS Services, Amplify, Cloud Formation, App Sync, AWS Lambda, Serverless Framework, GCP FireBase, Firestore and Google Functions.
+- **Cloud:** AWS Services, Amplify, Cloud Formation, App Sync, AWS Lambda, Serverless Framework, GCP FireBase, Firestore and Google Functions.
 
-**Databases:** PostgreSQL, MS SQL Server, MySQL, MariaDB, MongoDB, FireBase, Redis, DynamoDB, and RDS.
+- **Databases:** PostgreSQL, MS SQL Server, MySQL, MariaDB, MongoDB, FireBase, Redis, DynamoDB, and RDS.
 
-**Tools:** Cypress, Jest, Jenkins, Git, GitLab, Linux, Jira, BitBucket, Apollo, Redux, 
+-- **Tools:** Cypress, Jest, Jenkins, Git, GitLab, Linux, Jira, BitBucket, Apollo, Redux, Insomnia, SonarQube, 
+
+Education
+---------
+**B.E. program in Electronic and Telecommunications Engineering, Universisdad de Cundinamarca, Colombia** (1999-2005)
+
+- Graduated with Honors Tesis for Electronic Engineering. Minored in Electromedical Project. Biometric System Design based on Neural Networks for Diagnosis of Cardiac Arrythm on sinus. Program: Electronic Engineering and Communications. Received Cundinamarca's University, 2005. 
+- Research Projects Improvement Team Chaquen 2003-2005.
+
+**P.B.E.. Software Engineering, Distrital University FPS, Colombia** (2006-2007)
+
+- Software Engineering Program.
 
 Awards
 ------
@@ -66,7 +69,7 @@ Awards
 
 Projects
 --------
-- **[*XPLATFORM: Gambling Platform* Angular/Node/Go/PostgresSQL](http://xplatform.sanpertech.com)** (2014-present)
+- **[*XPLATFORM: Gambling Platform* Angular/Node/Go/PostgresSQL](http://web.superbancas.com)** (2014-present)
 
 - **[*SEGUREX: Insurance Platform* React/Python/DynamoDB](http://segurex.sanpertech.com)** (2015-present)
 
